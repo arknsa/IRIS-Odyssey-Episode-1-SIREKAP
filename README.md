@@ -111,7 +111,7 @@ sumber : https://x.com/herculep638/status/1762392970668745172
 
 ![Top Retweeted](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/top_retweeted.png)
 
-![Top Retweeted](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/top_liked_retweet_pic.png)
+![Top Retweeted](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/top_replied_retweet_pic.png)
 
 sumber :  https://x.com/herculep638/status/1762392970668745172
 
