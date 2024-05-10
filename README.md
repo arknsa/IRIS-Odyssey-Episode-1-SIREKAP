@@ -59,7 +59,7 @@ sumber : IRIS FTMM
 
 Dataset pada analisis kali ini didapat dengan menggunakan metode crawling pada media sosial X dengan sumber code berikut https://helmisatria.com/blog/crawl-data-twitter-menggunakan-tweet-harvest dan tentunya terdapat batasan dalam crawling berdasarkan [kebijakan Elon Musk](https://x.com/elonmusk/status/1675214274627530754), sehingga total tweet yang diperoleh berjumlah 2.970 tweets dengan rincian sebagai berikut
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/30d2750c-9d43-49f3-ac81-26d8777c72ca/43422fc2-bb32-4b9e-bec7-0139efb962af/Untitled.png)
+![Crawling Twitter](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/crawl-tweet.png)
 
 #### Trend Analysis di X
 
@@ -77,11 +77,11 @@ Puncak pembahasan terjadi pada 18 Febuari 2024 dengan dugaan kekeliruan rekapitu
 
 Selain informasi diatas terdapat hal lain yang menyebabkan terjadinya puncak pembahasan terkait “sirekap”, diantaranya
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/30d2750c-9d43-49f3-ac81-26d8777c72ca/d31f5b23-f83f-42e6-9a38-5da426335498/Untitled.png)
+![Berita 1](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/berita-1.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/30d2750c-9d43-49f3-ac81-26d8777c72ca/02fcc6a7-3722-4684-a44c-3299b5deeda4/Untitled.png)
+![Berita 2](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/berita-2.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/30d2750c-9d43-49f3-ac81-26d8777c72ca/a66bec2b-749a-42e4-9898-3d0740c13bfb/Untitled.png)
+![Berita 3](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/berita-3.png)
 
 Adapun setelah tanggal 18 Februari terdapat  
 
