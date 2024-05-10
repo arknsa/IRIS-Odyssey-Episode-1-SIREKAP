@@ -23,7 +23,7 @@ Penggunaan Sirekap melibatkan kecerdasan buatan, memungkinkan hasil penghitungan
 
 #### Optical Character Recognition (OCR)
 
-![Untitled](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/ocr.png)
+![OCR](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/ocr.png)
 
 ---
 
@@ -61,6 +61,8 @@ Dataset pada analisis kali ini didapat dengan menggunakan metode crawling pada m
 
 ![Crawling Twitter](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/crawl-tweet.png)
 
+sumber : IRIS FTMM
+
 #### Trend Analysis di X
 
 ![Trend Analysis](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/tren.png)
@@ -79,9 +81,15 @@ Selain informasi diatas terdapat hal lain yang menyebabkan terjadinya puncak pem
 
 ![Berita 1](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/berita-1.png)
 
+sumber : https://www.detik.com/bali/berita/d-7199589/aplikasi-sirekap-eror-penghitungan-suara-pemilu-ditunda
+
 ![Berita 2](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/berita-2.png)
 
+sumber : https://www.kompas.id/baca/polhuk/2024/02/18/rekapitulasi-suara-di-kecamatan-dihentikan-muncul-tudingan-untuk-akali-suara
+
 ![Berita 3](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/berita-3.png)
+
+sumber : https://www.metrotvnews.com/read/kWDCZdn2-investigasi-sirekap-keamanan-siber-pemilu-2024-buruk 
 
 Adapun setelah tanggal 18 Februari terdapat  
 
@@ -93,19 +101,25 @@ Adapun informasi top liked, replied, dan retweeted dari rentang 13 Februari - 09
 
 ![Top Liked](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/top_liked_pic.png)
 
+sumber : https://x.com/ZAEffendy/status/1759279104430583866
+
 ![Top Replied](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/top_replied.png)
 
 ![Top Replied](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/top_replied_retweet_pic.png)
+
+sumber : https://x.com/herculep638/status/1762392970668745172
 
 ![Top Retweeted](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/top_retweeted.png)
 
 ![Top Retweeted](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/top_liked_retweet_pic.png)
 
+sumber :  https://x.com/herculep638/status/1762392970668745172
+
 Hal ini bisa kita simpulkan setelah terjadinya PEMILU kabar-kabar mengenai PEMILU ini masih ramai dibincangkan oleh para netizen Indonesia entah itu terkait isu-isu yang masih ada atau bahkan seputar sistematis yang sedang digunakan dalam PEMILU tersebut.
 
 #### Clustering Data
 
-![UElbow Method](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/elbow_method.png)
+![Elbow Method](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/elbow_method.png)
 
 sumber : IRIS FTMM
 
@@ -121,27 +135,29 @@ Berdasarkan analisis visualisasi algoritma TF-IDF, dapat disimpulkan bahwa kata-
 
 #### Word Cloud
 
+Berdasarkan hasil yang didapat dari elbow-method dengan titik optimal k = 4, maka dibuatlah 4 cluster untuk visualisasi Top Words.
+
 **Cluster 1 :**
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/30d2750c-9d43-49f3-ac81-26d8777c72ca/40e6e2af-153b-4340-9106-4d474deedc53/Untitled.png)
+![Cluster 1](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/cluster-1.png)
 
 sumber : IRIS FTMM
 
 **Cluster 2 :**
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/30d2750c-9d43-49f3-ac81-26d8777c72ca/b888daa2-0027-49e8-b152-8fc5a8c4600d/Untitled.png)
+![Cluster 2](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/cluster-2.png)
 
 sumber : IRIS FTMM
 
 **Cluster 3**
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/30d2750c-9d43-49f3-ac81-26d8777c72ca/ebc59f5c-6ced-4728-bace-aed0a13739cc/Untitled.png)
+![Cluster 3](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/cluster-3.png)
 
 sumber : IRIS FTMM
 
 **Cluster 4**
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/30d2750c-9d43-49f3-ac81-26d8777c72ca/8efcdcb7-043c-4fa5-9ad0-d896e0c6cc67/Untitled.png)
+![Cluster 4](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/cluster-4.png)
 
 sumber : IRIS FTMM
 
