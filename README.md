@@ -11,7 +11,7 @@ Kali ini, kita akan menelusuri lebih dalam ke inti permasalahan ini, menjelajahi
 
 #### Sistem Informasi Rekapitulasi (SIREKAP)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/30d2750c-9d43-49f3-ac81-26d8777c72ca/367e1cf8-94de-4587-a9d3-c1abffbb906a/Untitled.png)
+![SIREKAP](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/sirekap.png)
 
 sumber : https://images.app.goo.gl/xrcmJzW4bgWH1hAU7 
 
@@ -23,7 +23,7 @@ Penggunaan Sirekap melibatkan kecerdasan buatan, memungkinkan hasil penghitungan
 
 #### Optical Character Recognition (OCR)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/30d2750c-9d43-49f3-ac81-26d8777c72ca/301335b4-aafd-4cf2-b15c-9a786dba3d71/Untitled.png)
+![Untitled](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/sirekap.png)
 
 ---
 
@@ -63,17 +63,17 @@ Dataset pada analisis kali ini didapat dengan menggunakan metode crawling pada m
 
 #### Trend Analysis di X
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/30d2750c-9d43-49f3-ac81-26d8777c72ca/98e19e58-ab22-4129-a36c-ab90b8f93860/Untitled.png)
+![Trend Analysis](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/tren.png)
 
 sumber : IRIS FTMM
 
 Pada tanggal 13 Febuari - 9 Maret 2024, pemberitaan dan perbincangan seputar SIREKAP PEMILU 2024 mencapai 2.970 tweets. Sebelum tanggal 18 Februari terdapat 672 tweets, berikut kami lampirkan top 3 most liked, replied, dan retweeted tweet terkait “sirekap”. 
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/30d2750c-9d43-49f3-ac81-26d8777c72ca/f068e062-5d66-4462-935e-348b6c2a1620/Untitled.png)
+![Top 3 Before 18th Feb](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/top_3_before.png)
 
 Puncak pembahasan terjadi pada 18 Febuari 2024 dengan dugaan kekeliruan rekapitulasi suara pada SIREKAP yang menggunakan metode OCR. 
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/30d2750c-9d43-49f3-ac81-26d8777c72ca/69341eb1-1472-45b0-8930-3451d27f677c/Untitled.png)
+![Top 3 On 18th Feb](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/top_3_on.png)
 
 Selain informasi diatas terdapat hal lain yang menyebabkan terjadinya puncak pembahasan terkait “sirekap”, diantaranya
 
@@ -85,27 +85,27 @@ Selain informasi diatas terdapat hal lain yang menyebabkan terjadinya puncak pem
 
 Adapun setelah tanggal 18 Februari terdapat  
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/30d2750c-9d43-49f3-ac81-26d8777c72ca/fbb5b84c-7003-48cf-b753-cb4ecc4ced68/Untitled.png)
+![Top 3 After 18th Feb](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/top_3_after.png)
 
 Adapun informasi top liked, replied, dan retweeted dari rentang 13 Februari - 09 Maret, yakni :
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/30d2750c-9d43-49f3-ac81-26d8777c72ca/c82c2b63-6dab-4d4c-9ba1-c94710eb92db/Untitled.png)
+![Top Liked](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/top_liked.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/30d2750c-9d43-49f3-ac81-26d8777c72ca/6cd4cf29-d1b8-4f79-bd67-3815446c8742/Untitled.png)
+![Top Liked](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/top_liked_pic.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/30d2750c-9d43-49f3-ac81-26d8777c72ca/c620563d-95a7-49ae-9563-229a7db47c0d/Untitled.png)
+![Top Replied](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/top_replied.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/30d2750c-9d43-49f3-ac81-26d8777c72ca/b48ce63b-ddae-4577-93b6-e97ce1938eb2/Untitled.png)
+![Top Replied](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/top_replied_retweet_pic.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/30d2750c-9d43-49f3-ac81-26d8777c72ca/1a275c5b-6721-43f6-8760-93e11bb6c987/Untitled.png)
+![Top Retweeted](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/top_retweeted.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/30d2750c-9d43-49f3-ac81-26d8777c72ca/b48ce63b-ddae-4577-93b6-e97ce1938eb2/Untitled.png)
+![Top Retweeted](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/top_liked_retweet_pic.png)
 
 Hal ini bisa kita simpulkan setelah terjadinya PEMILU kabar-kabar mengenai PEMILU ini masih ramai dibincangkan oleh para netizen Indonesia entah itu terkait isu-isu yang masih ada atau bahkan seputar sistematis yang sedang digunakan dalam PEMILU tersebut.
 
 #### Clustering Data
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/30d2750c-9d43-49f3-ac81-26d8777c72ca/d878c12c-6522-45e6-b115-ea76a5346c9a/Untitled.png)
+![UElbow Method](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/elbow_method.png)
 
 sumber : IRIS FTMM
 
@@ -113,7 +113,7 @@ Berdasarkan interpretasi grafik metode Elbow, terlihat bagaimana garis biru pada
 
 #### Top Words using TFIDF Algorithm
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/30d2750c-9d43-49f3-ac81-26d8777c72ca/fdcc0f85-c76f-4e6f-addf-57ab95119133/Untitled.png)
+![TF-IDF](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/tf-idf.png)
 
 sumber : IRIS FTMM
 
