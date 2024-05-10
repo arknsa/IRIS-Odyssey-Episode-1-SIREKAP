@@ -23,7 +23,7 @@ Penggunaan Sirekap melibatkan kecerdasan buatan, memungkinkan hasil penghitungan
 
 #### Optical Character Recognition (OCR)
 
-![Untitled](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/sirekap.png)
+![Untitled](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/ocr.png)
 
 ---
 
