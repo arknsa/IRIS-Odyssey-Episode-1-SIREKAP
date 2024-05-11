@@ -1,21 +1,21 @@
 # IRIS Odyssey Episode 1 : 
-## SIREKAP dan OCR: Inovasi atau Ancaman bagi Integritas Pemilu?
+## Analisis Sirekap: Inovasi atau Ancaman bagi Integritas Pemilu?
 
 ### Pendahuluan
 
-Dalam konteks demokrasi, integritas dan akurasi hasil pemilihan umum (Pemilu) sangatlah penting untuk memastikan representasi kehendak rakyat yang adil. Pusat dari perhatian ini adalah sistem rekapitulasi pemilu yang diterapkan oleh Komisi Pemilihan Umum (KPU) di berbagai negara. Di Indonesia, KPU memegang peran krusial dalam mengkonsolidasi dan memverifikasi suara melalui proses rekapitulasi yang cermat. Namun, seiring berjalannya pemilu, muncul berbagai desas-desus mengenai ketepatan dan regulasi KPU dalam melakukan rekapitulasi hasil pemilu. Hal ini menimbulkan pertanyaan tentang keakuratan dan efektivitas sistem yang digunakan.
+Dalam konteks demokrasi, integritas dan akurasi hasil pemilihan umum (Pemilu) sangatlah penting untuk memastikan representasi kehendak rakyat yang adil. Pusat dari perhatian ini adalah sistem rekapitulasi pemilu yang diterapkan oleh Komisi Pemilihan Umum (KPU) di berbagai negara. Di Indonesia, KPU memegang peran krusial dalam mengkonsolidasi dan memverifikasi suara melalui proses rekapitulasi yang cermat. Namun, seiring berjalannya pemilihan umum, muncul berbagai desas-desus mengenai ketepatan dan regulasi KPU dalam melakukan rekapitulasi hasil pemilihan umum. Hal ini menimbulkan pertanyaan tentang keakuratan dan efektivitas sistem yang digunakan.
 
-Kali ini, kita akan menelusuri lebih dalam ke inti permasalahan ini, menjelajahi kompleksitas dari proses rekapitulasi KPU serta kerangka regulasi yang mengaturnya. Dengan mengamati aspek-aspek ini, kita berusaha untuk membahas apakah sistem saat ini mampu bertahan dari kritik yang ada dan apakah diperlukan penyempurnaan lebih lanjut guna mencapai proses pemilu yang lebih transparan dan dapat dipercaya.
+Kali ini, kita akan menelusuri lebih dalam ke inti permasalahan ini, menjelajahi kompleksitas dari proses rekapitulasi KPU serta kerangka regulasi yang mengaturnya. Dengan mengamati aspek-aspek ini, kita berusaha untuk membahas apakah sistem saat ini mampu bertahan dari kritik yang ada dan apakah diperlukan penyempurnaan lebih lanjut guna mencapai proses pemilihan umum yang lebih transparan dan dapat dipercaya.
 
 ### Isi
 
-#### Sistem Informasi Rekapitulasi (SIREKAP)
+#### Sistem Informasi Rekapitulasi (Sirekap)
 
 ![SIREKAP](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/sirekap.png)
 
 sumber : https://images.app.goo.gl/xrcmJzW4bgWH1hAU7 
 
-Sirekap, singkatan dari Sistem Informasi Rekapitulasi, dinilai publik masih memiliki kekurangan dan kesalahan dalam membaca formulir C1 untuk hasil rekapitulasi pada PEMILU 2024. Namun, sebenarnya, apa fungsi sebenarnya dari aplikasi Sirekap ini?
+Sirekap, singkatan dari Sistem Informasi Rekapitulasi, dinilai publik masih memiliki kekurangan dan kesalahan dalam membaca formulir C1 untuk hasil rekapitulasi pada Pemilu 2024. Namun, sebenarnya, apa fungsi sebenarnya dari aplikasi Sirekap ini?
 
 Berdasarkan Keputusan KPU Nomor 66 Tahun 2024 tentang Panduan Teknis Pelaksanaan Pemungutan dan Penghitungan Suara dalam Pemilu, Sirekap adalah sebuah aplikasi berbasis teknologi informasi yang digunakan untuk mempublikasikan hasil penghitungan suara dan menyajikan proses rekapitulasi hasil penghitungan suara dalam pemilihan umum. Sirekap juga berperan sebagai alat bantu dalam rekapitulasi hasil penghitungan suara.
 
@@ -51,7 +51,7 @@ Keywords :
 
 | No | Keywords |
 | --- | --- |
-| 1 | SIREKAP |
+| 1 | Sirekap |
 
 sumber : IRIS FTMM
 
@@ -69,17 +69,17 @@ sumber : IRIS FTMM
 
 sumber : IRIS FTMM
 
-Grafik tersebut menggambarkan tren tweet terkait SIREKAP dari 13 Februari 2024 hingga 9 Maret 2024. Bisa dilihat bahwa pemberitaan dan perbincangan seputar SIREKAP mencapai 2.970 tweets. Terdapat aktivitas tweet yang cukup tinggi pada 13-17 Februari, hingga mencapai puncak yakni sekitar 687 tweets pada 18 Februari, kemudian terdapat fluktuasi pada 19 Februari - 9 Maret. Secara keseluruhan, data menunjukkan “fluktuasi minat” terhadap SIREKAP, dengan puncak awal, penurunan tajam, pemulihan singkat, penurunan stabil, dan lonjakan aktivitas akhir. Perubahan volume tweet ini menunjukkan berbagai tingkat keterlibatan publik atau peristiwa yang memengaruhi diskusi tentang SIREKAP selama periode yang diamati. Oleh karena itu, kami menampilkan rekapan tweet dan berita menjadi tiga bagian: Sebelum, Saat, dan Sesudah  pada 18 Februari 2024.
+Grafik tersebut menggambarkan tren tweet terkait Sirekap dari 13 Februari 2024 hingga 9 Maret 2024. Bisa dilihat bahwa pemberitaan dan perbincangan seputar Sirekap mencapai 2.970 tweets. Terdapat aktivitas tweet yang cukup tinggi pada 13-17 Februari, hingga mencapai puncak yakni sekitar 687 tweets pada 18 Februari, kemudian terdapat fluktuasi pada 19 Februari - 9 Maret. Secara keseluruhan, data menunjukkan fluktuasi minat terhadap Sirekap, dengan puncak awal, penurunan tajam, pemulihan singkat, penurunan stabil, dan lonjakan aktivitas akhir. Perubahan volume tweet ini menunjukkan berbagai tingkat keterlibatan publik atau peristiwa yang memengaruhi diskusi tentang Sirekap selama periode yang diamati. Oleh karena itu, kami menampilkan rekapan tweet dan berita menjadi tiga bagian: Sebelum, Saat, dan Sesudah  pada 18 Februari 2024.
 
-**Sebelum** tanggal 18 Februari, berikut kami lampirkan top 3 most liked, replied, dan retweeted tweet terkait SIREKAP, diantaranya:
+**Sebelum** tanggal 18 Februari, berikut kami lampirkan top 3 most liked, replied, dan retweeted tweet terkait Sirekap, diantaranya:
 
 ![Top 3 Before 18th Feb](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/top_3_before.png)
 
-**Saat** tanggal 18 Febuari 2024 yang merupakan puncak pembahasan  dengan dugaan kekeliruan rekapitulasi suara pada SIREKAP yang menggunakan metode OCR, berikut kami lampirkan 3 most liked, replied, dan retweeted tweet terkait SIREKAP, diantaranya:
+**Saat** tanggal 18 Febuari 2024 yang merupakan puncak pembahasan  dengan dugaan kekeliruan rekapitulasi suara pada Sirekap yang menggunakan metode OCR, berikut kami lampirkan 3 most liked, replied, dan retweeted tweet terkait Sirekap, diantaranya:
 
 ![Top 3 On 18th Feb](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/top_3_on.png)
 
-Selain informasi diatas terdapat hal lain yang menyebabkan terjadinya puncak pembahasan terkait SIREKAP pada tanggal 18 Februari 2024, diantaranya:
+Selain informasi diatas terdapat hal lain yang menyebabkan terjadinya puncak pembahasan terkait Sirekap pada tanggal 18 Februari 2024, diantaranya:
 
 ![Berita 1](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/berita-1.png)
 
@@ -93,11 +93,11 @@ sumber : https://www.kompas.id/baca/polhuk/2024/02/18/rekapitulasi-suara-di-keca
 
 sumber : https://www.metrotvnews.com/read/kWDCZdn2-investigasi-sirekap-keamanan-siber-pemilu-2024-buruk 
 
-**Setelah** tanggal 18 Februari, berikut kami lampirkan 3 most liked, replied, dan retweeted tweet terkait SIREKAP, diantaranya:  
+**Setelah** tanggal 18 Februari, berikut kami lampirkan 3 most liked, replied, dan retweeted tweet terkait Sirekap, diantaranya:  
 
 ![Top 3 After 18th Feb](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/top_3_after.png)
 
-Adapun dari rentang 13 Februari - 09 Maret, berikut kami lampirkan  informasi top liked, replied, dan retweeted tweet terkait SIREKAP, diantaranya:
+Adapun dari rentang 13 Februari - 09 Maret, berikut kami lampirkan  informasi top liked, replied, dan retweeted tweet terkait Sirekap, diantaranya:
 
 ![Top Liked](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/top_liked.png)
 
@@ -117,7 +117,7 @@ sumber : https://x.com/herculep638/status/1762392970668745172
 
 sumber :  https://x.com/herculep638/status/1762392970668745172
 
-Hal ini bisa kita simpulkan setelah terjadinya Pemilu 2024 kabar-kabar mengenai hal tersebut masih ramai dibincangkan oleh para netizen Indonesia entah itu terkait isu-isu yang masih ada atau bahkan seputar sistematis yang sedang digunakan dalam Pemilihan Umum tersebut.
+Hal ini bisa kita simpulkan setelah terjadinya Pemilu 2024 kabar-kabar mengenai hal tersebut masih ramai dibincangkan oleh para netizen Indonesia entah itu terkait isu-isu yang masih ada atau bahkan seputar sistematis yang sedang digunakan dalam pemilihan umum tersebut.
 
 #### Clustering Data
 
@@ -133,7 +133,7 @@ Berdasarkan interpretasi grafik metode Elbow, terlihat bagaimana garis biru pada
 
 sumber : IRIS FTMM
 
-Berdasarkan analisis visualisasi algoritma TF-IDF, dapat disimpulkan bahwa kata-kata seperti “hasil”, "suara", "disetop", "ajak", "fokus", "publik", "rekapitulasi", "real", "count", dan "manual" memiliki nilai TF-IDF yang tinggi, menunjukkan kepentingan dan relevansi yang signifikan terhadap SIREKAP Pemilu 2024 setelah melalui pra-pemrosesan data. Nilai TF-IDF yang lebih tinggi pada kata-kata ini mengindikasikan tingkat penting dan relevansi yang lebih tinggi dalam percakapan terkait SIREKAP Pemilu 2024, yang dapat menjadi fokus perhatian dalam analisis dan perbaikan sistem untuk meningkatkan transparansi dan akurasi dalam proses pemilihan umum.
+Berdasarkan analisis visualisasi algoritma TF-IDF, dapat disimpulkan bahwa kata-kata seperti “hasil”, "suara", "disetop", "ajak", "fokus", "publik", "rekapitulasi", "real", "count", dan "manual" memiliki nilai TF-IDF yang tinggi, menunjukkan kepentingan dan relevansi yang signifikan terhadap Sirekap Pemilu 2024 setelah melalui pra-pemrosesan data. Nilai TF-IDF yang lebih tinggi pada kata-kata ini mengindikasikan tingkat penting dan relevansi yang lebih tinggi dalam percakapan terkait Sirekap Pemilu 2024, yang dapat menjadi fokus perhatian dalam analisis dan perbaikan sistem untuk meningkatkan transparansi dan akurasi dalam proses pemilihan umum.
 
 #### Word Cloud
 
@@ -146,7 +146,7 @@ Berdasarkan hasil yang didapat dari elbow-method dengan titik optimal k = 4, mak
 sumber : IRIS FTMM
 
 Berdasarkan word cloud diatas terdapat 7 kata kunci utama yakni; **aniesmuhaimin2024, prabowogibran2024, pemilu2024, real count, vote real, dirty vote,** dan **curang dirty.**
-Word cloud ini menunjukkan percakapan yang terfokus pada kandidat-kandidat utama dalam Pemilu 2024, yakni Anies Baswedan-Muhaimin Iskandar dan Prabowo Subianto-Gibran Rakabuming. Juga menunjukkan kekhawatiran yang signifikan tentang kecurangan dalam pemilu, yang mengindikasikan bahwa publik skeptis terhadap integritas proses pemilu dengan kata-kata seperti **vote real** dan **dirty vote**. Isu-isu tentang kecurangan dan manipulasi suara sangat dominan, ini bisa menunjukkan bahwa meskipun teknologi ini (SIREKAP) diharapkan meningkatkan transparansi, ada kekhawatiran bahwa teknologi tersebut juga bisa dimanipulasi, menimbulkan ancaman bagi integritas pemilu.
+Word cloud ini menunjukkan percakapan yang terfokus pada kandidat-kandidat utama dalam Pemilu 2024, yakni Anies Baswedan-Muhaimin Iskandar dan Prabowo Subianto-Gibran Rakabuming. Juga menunjukkan kekhawatiran yang signifikan tentang kecurangan dalam pemilihan umum, yang mengindikasikan bahwa publik skeptis terhadap integritas proses pemilihan umum dengan kata-kata seperti **vote real** dan **dirty vote**. Isu-isu tentang kecurangan dan manipulasi suara sangat dominan, ini bisa menunjukkan bahwa meskipun teknologi ini (Sirekap) diharapkan meningkatkan transparansi, ada kekhawatiran bahwa teknologi tersebut juga bisa dimanipulasi, menimbulkan ancaman bagi integritas Pemilu 2024.
 
 **Cluster 2 :**
 
@@ -155,7 +155,7 @@ Word cloud ini menunjukkan percakapan yang terfokus pada kandidat-kandidat utama
 sumber : IRIS FTMM
 
 Berdasarkan word cloud diatas terdapat 7 kata kunci utama yakni: **rekap, hasil, suara, alat bantu, data, perolehan suara,** dan **penghitungan suara**.
-Word cloud ini berfokus pada proses teknis dari penghitungan suara dalam pemilu. Kata-kata seperti **rekap, hasil, suara, dan penghitungan suara** menunjukkan diskusi seputar mekanisme rekapitulasi suara dan alat bantu yang digunakan (SIREKAP). Ini mengindikasikan perhatian publik terhadap transparansi dan akurasi dalam penghitungan suara.
+Word cloud ini berfokus pada proses teknis dari penghitungan suara dalam pemilihan umum. Kata-kata seperti **rekap, hasil, suara, dan penghitungan suara** menunjukkan diskusi seputar mekanisme rekapitulasi suara dan alat bantu yang digunakan (Sirekap). Ini mengindikasikan perhatian publik terhadap transparansi dan akurasi dalam penghitungan suara.
 
 **Cluster 3**
 
@@ -164,7 +164,7 @@ Word cloud ini berfokus pada proses teknis dari penghitungan suara dalam pemilu.
 sumber : IRIS FTMM
 
 Berdasarkan word cloud diatas terdapat 7 kata kunci utama yakni: **ajak publik, disetop, count, real count, fokus, manual,** dan **rekapitulasi.**
-Word cloud ini mencerminkan seruan untuk keterlibatan publik dalam perhitungan suara dan penghentian proses tertentu (SIREKAP). Kata **real count** menunjukkan dorongan untuk penghitungan suara yang transparan dan akurat. Hal ini mengindikasikan publik menginginkan akses terhadap informasi yang dihasilkan oleh teknologi ini dan kejelasan tentang bagaimana data tersebut digunakan.
+Word cloud ini mencerminkan seruan untuk keterlibatan publik dalam perhitungan suara dan penghentian proses tertentu (Sirekap). Kata **real count** menunjukkan dorongan untuk penghitungan suara yang transparan dan akurat. Hal ini mengindikasikan publik menginginkan akses terhadap informasi yang dihasilkan oleh teknologi ini dan kejelasan tentang bagaimana data tersebut digunakan.
 
 **Cluster 4**
 
@@ -173,19 +173,19 @@ Word cloud ini mencerminkan seruan untuk keterlibatan publik dalam perhitungan s
 sumber : IRIS FTMM
 
 Berdasarkan word cloud diatas terdapat 7 kata kunci utama yakni: **perindo, partaiperindo, pemilu2024, pileg2024, untukindonesiasejahtera, partaipedulirakyat,** dan **perindoupdate.**
-Word cloud ini berpusat pada aktivitas dan kampanye partai-partai menjelang Pemilu 2024. Frasa **untukindonesiasejahter**a dan **partaipedulirakyat** menunjukkan fokus partai pada kesejahteraan rakyat. Kata-kata seperti **pemilu2024** dan **pileg2024** menandakan diskusi tentang strategi dan persiapan partai untuk pemilihan legislatif dan umum.
+Word cloud ini berpusat pada aktivitas dan kampanye partai-partai menjelang Pemilu 2024. Frasa **untukindonesiasejahter**a dan **partaipedulirakyat** menunjukkan fokus partai pada kesejahteraan rakyat. Kata-kata seperti **pemilu2024** dan **pileg2024** menandakan diskusi tentang strategi dan persiapan partai untuk pemilihan legislatif dan pemilihan umum.
 
-Secara keseluruhan, keempat word cloud ini memberikan gambaran lengkap tentang berbagai aspek Pemilu 2024 di Indonesia. Mereka memberi perhatian khusus pada masalah kecurangan, rekapitulasi suara, partisipasi publik, dan kampanye partai politik. Analisis ini menunjukkan betapa pentingnya SIREKAP yang menggunakan OCR sebagai inovasi teknologi dalam pemilu. Meskipun ada potensi besar untuk meningkatkan transparansi dan efisiensi, ada kekhawatiran yang wajar bahwa teknologi ini dapat mengancam integritas pemilu jika tidak diawasi dengan baik.
+Secara keseluruhan, keempat word cloud ini memberikan gambaran lengkap tentang berbagai aspek Pemilu 2024 di Indonesia. Mereka memberi perhatian khusus pada masalah kecurangan, rekapitulasi suara, partisipasi publik, dan kampanye partai politik. Analisis ini menunjukkan betapa pentingnya Sirekap yang menggunakan OCR sebagai inovasi teknologi dalam pemilihan umum. Meskipun ada potensi besar untuk meningkatkan transparansi dan efisiensi, ada kekhawatiran yang wajar bahwa teknologi ini dapat mengancam integritas pemilu jika tidak diawasi dengan baik.
 
 ### Penutup
 
-Pada Pemilihan Umum Indonesia tahun 2024, teknologi seperti Sistem Informasi Rekapitulasi (SIREKAP) dan Optical Character Recognition (OCR) telah digunakan. Namun, kekhawatiran tentang akurasi dan transparansi sistem ini telah muncul, terutama dalam diskusi di media sosial. Isu-isu seperti penghitungan suara, potensi kecurangan, dan hasil pemilihan umum menjadi fokus utama.
+Pada Pemilihan Umum Indonesia tahun 2024, teknologi seperti Sistem Informasi Rekapitulasi (Sirekap) dan Optical Character Recognition (OCR) telah digunakan. Namun, kekhawatiran tentang akurasi dan transparansi sistem ini telah muncul, terutama dalam diskusi di media sosial. Isu-isu seperti penghitungan suara, potensi kecurangan, dan hasil pemilihan umum menjadi fokus utama.
 
-Ketidakpuasan publik terhadap proses rekapitulasi suara telah memicu tuntutan untuk transparansi yang lebih baik. Beberapa bahkan mendesak untuk beralih dari penghitungan suara otomatis ke metode manual yang dianggap lebih dapat dipercaya. Di sisi lain, efektivitas dan keakuratan OCR juga dipertanyakan, dengan beberapa menyoroti potensi kesalahan dalam pembacaan hasil pemilu.
+Ketidakpuasan publik terhadap proses rekapitulasi suara telah memicu tuntutan untuk transparansi yang lebih baik. Beberapa bahkan mendesak untuk beralih dari penghitungan suara otomatis ke metode manual yang dianggap lebih dapat dipercaya. Di sisi lain, efektivitas dan keakuratan OCR juga dipertanyakan, dengan beberapa menyoroti potensi kesalahan dalam pembacaan hasil pemilihan umum.
 
-Sebagai warga yang peduli akan masa depan demokrasi, kita diajak untuk memperhatikan isu-isu penting ini. Transparansi dan akuntabilitas dalam setiap tahapan pemilihan menjadi sangat krusial. Oleh karena itu, mari kita bersama-sama mengawasi dan mendesak peningkatan dalam sistem pemilu agar lebih dapat dipercaya dan memberikan hasil yang sesuai dengan kehendak rakyat.
+Sebagai warga yang peduli akan masa depan demokrasi, kita diajak untuk memperhatikan isu-isu penting ini. Transparansi dan akuntabilitas dalam setiap tahapan pemilihan menjadi sangat krusial. Oleh karena itu, mari kita bersama-sama mengawasi dan mendesak peningkatan dalam sistem pemilihan umum agar lebih dapat dipercaya dan memberikan hasil yang sesuai dengan kehendak rakyat.
 
-Secara keseluruhan, analisis ini menunjukkan urgensi peningkatan transparansi dan akurasi dalam proses pemilihan umum di Indonesia. Ini bukan hanya penting untuk memastikan hasil pemilu yang adil dan akurat, tetapi juga untuk membangun kepercayaan publik terhadap proses demokrasi. Dengan berpartisipasi aktif dalam menjaga transparansi, akurasi, dan integritas dalam setiap tahapan pemilihan umum, kita dapat berkontribusi dalam memastikan masa depan demokrasi yang lebih baik. Mari kita bersatu untuk demokrasi yang lebih adil, akurat, dan transparan.
+Secara keseluruhan, analisis ini menunjukkan urgensi peningkatan transparansi dan akurasi dalam proses pemilihan umum di Indonesia. Ini bukan hanya penting untuk memastikan hasil pemilihan umum yang adil dan akurat, tetapi juga untuk membangun kepercayaan publik terhadap proses demokrasi. Dengan berpartisipasi aktif dalam menjaga transparansi, akurasi, dan integritas dalam setiap tahapan pemilihan umum, kita dapat berkontribusi dalam memastikan masa depan demokrasi yang lebih baik. Mari kita bersatu untuk demokrasi yang lebih adil, akurat, dan transparan.
 
 #### References
 
