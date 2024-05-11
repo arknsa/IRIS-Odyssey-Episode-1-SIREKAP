@@ -172,7 +172,7 @@ Word cloud ini mencerminkan seruan untuk keterlibatan publik dalam perhitungan s
 
 sumber : IRIS FTMM
 
-Berdasarkan word cloud diatas terdapat 7 kata kunci utama yakni: **perindo, partaiperindo, pemilu2024, pileg2024, untukindonesiasejahtera, partaipedulirakyat, ** dan **perindoupdate.**
+Berdasarkan word cloud diatas terdapat 7 kata kunci utama yakni: **perindo, partaiperindo, pemilu2024, pileg2024, untukindonesiasejahtera, partaipedulirakyat,** dan **perindoupdate.**
 Word cloud ini berpusat pada aktivitas dan kampanye partai-partai menjelang Pemilu 2024. Frasa **untukindonesiasejahter**a dan **partaipedulirakyat** menunjukkan fokus partai pada kesejahteraan rakyat. Kata-kata seperti **pemilu2024** dan **pileg2024** menandakan diskusi tentang strategi dan persiapan partai untuk pemilihan legislatif dan umum.
 
 Secara keseluruhan, keempat word cloud ini memberikan gambaran lengkap tentang berbagai aspek Pemilu 2024 di Indonesia. Mereka memberi perhatian khusus pada masalah kecurangan, rekapitulasi suara, partisipasi publik, dan kampanye partai politik. Analisis ini menunjukkan betapa pentingnya SIREKAP yang menggunakan OCR sebagai inovasi teknologi dalam pemilu. Meskipun ada potensi besar untuk meningkatkan transparansi dan efisiensi, ada kekhawatiran yang wajar bahwa teknologi ini dapat mengancam integritas pemilu jika tidak diawasi dengan baik.
