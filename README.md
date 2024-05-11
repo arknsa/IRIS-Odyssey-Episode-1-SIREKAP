@@ -1,9 +1,9 @@
 # IRIS Odyssey Episode 1 : 
-## “SIREKAP dan OCR: Inovasi atau Ancaman bagi Integritas Pemilu?”
+## SIREKAP dan OCR: Inovasi atau Ancaman bagi Integritas Pemilu?
 
 ### Pendahuluan
 
-Dalam konteks demokrasi, integritas dan akurasi hasil pemilihan umum (pemilu) sangatlah penting untuk memastikan representasi kehendak rakyat yang adil. Pusat dari perhatian ini adalah sistem rekapitulasi pemilu yang diterapkan oleh Komisi Pemilihan Umum (KPU) di berbagai negara. Di Indonesia, KPU memegang peran krusial dalam mengkonsolidasi dan memverifikasi suara melalui proses rekapitulasi yang cermat. Namun, seiring berjalannya pemilu, muncul berbagai desas-desus mengenai ketepatan dan regulasi KPU dalam melakukan rekapitulasi hasil pemilu. Hal ini menimbulkan pertanyaan tentang keakuratan dan efektivitas sistem yang digunakan.
+Dalam konteks demokrasi, integritas dan akurasi hasil pemilihan umum (Pemilu) sangatlah penting untuk memastikan representasi kehendak rakyat yang adil. Pusat dari perhatian ini adalah sistem rekapitulasi pemilu yang diterapkan oleh Komisi Pemilihan Umum (KPU) di berbagai negara. Di Indonesia, KPU memegang peran krusial dalam mengkonsolidasi dan memverifikasi suara melalui proses rekapitulasi yang cermat. Namun, seiring berjalannya pemilu, muncul berbagai desas-desus mengenai ketepatan dan regulasi KPU dalam melakukan rekapitulasi hasil pemilu. Hal ini menimbulkan pertanyaan tentang keakuratan dan efektivitas sistem yang digunakan.
 
 Kali ini, kita akan menelusuri lebih dalam ke inti permasalahan ini, menjelajahi kompleksitas dari proses rekapitulasi KPU serta kerangka regulasi yang mengaturnya. Dengan mengamati aspek-aspek ini, kita berusaha untuk membahas apakah sistem saat ini mampu bertahan dari kritik yang ada dan apakah diperlukan penyempurnaan lebih lanjut guna mencapai proses pemilu yang lebih transparan dan dapat dipercaya.
 
@@ -57,7 +57,7 @@ sumber : IRIS FTMM
 
 #### Crawling Data di X
 
-Dataset pada analisis kali ini didapat dengan menggunakan metode crawling pada media sosial X dengan sumber code berikut https://helmisatria.com/blog/crawl-data-twitter-menggunakan-tweet-harvest dan tentunya terdapat batasan dalam crawling berdasarkan [kebijakan Elon Musk](https://x.com/elonmusk/status/1675214274627530754), sehingga total tweet yang diperoleh berjumlah 2.970 tweets dengan rincian sebagai berikut
+Dataset pada analisis kali ini didapat dengan menggunakan metode crawling pada media sosial X dengan sumber code berikut https://helmisatria.com/blog/crawl-data-twitter-menggunakan-tweet-harvest dan tentunya terdapat batasan dalam crawling berdasarkan kebijakan Elon Musk ![kebijakan Elon Musk](https://x.com/elonmusk/status/1675214274627530754), sehingga total tweet yang diperoleh berjumlah 2.970 tweets dengan rincian sebagai berikut :
 
 ![Crawling Twitter](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/crawl-tweet.png)
 
@@ -69,15 +69,17 @@ sumber : IRIS FTMM
 
 sumber : IRIS FTMM
 
-Pada tanggal 13 Febuari - 9 Maret 2024, pemberitaan dan perbincangan seputar SIREKAP PEMILU 2024 mencapai 2.970 tweets. Sebelum tanggal 18 Februari terdapat 672 tweets, berikut kami lampirkan top 3 most liked, replied, dan retweeted tweet terkait “sirekap”. 
+Grafik tersebut menggambarkan tren tweet terkait SIREKAP dari 13 Februari 2024 hingga 9 Maret 2024. Bisa dilihat bahwa pemberitaan dan perbincangan seputar SIREKAP mencapai 2.970 tweets. Terdapat aktivitas tweet yang cukup tinggi pada 13-17 Februari, hingga mencapai puncak yakni sekitar 687 tweets pada 18 Februari, kemudian terdapat fluktuasi pada 19 Februari - 9 Maret. Secara keseluruhan, data menunjukkan “fluktuasi minat” terhadap SIREKAP, dengan puncak awal, penurunan tajam, pemulihan singkat, penurunan stabil, dan lonjakan aktivitas akhir. Perubahan volume tweet ini menunjukkan berbagai tingkat keterlibatan publik atau peristiwa yang memengaruhi diskusi tentang SIREKAP selama periode yang diamati. Oleh karena itu, kami menampilkan rekapan tweet dan berita menjadi tiga bagian: Sebelum, Saat, dan Sesudah  pada 18 Februari 2024.
+
+**Sebelum** tanggal 18 Februari, berikut kami lampirkan top 3 most liked, replied, dan retweeted tweet terkait SIREKAP, diantaranya:
 
 ![Top 3 Before 18th Feb](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/top_3_before.png)
 
-Puncak pembahasan terjadi pada 18 Febuari 2024 dengan dugaan kekeliruan rekapitulasi suara pada SIREKAP yang menggunakan metode OCR. 
+**Saat** tanggal 18 Febuari 2024 yang merupakan puncak pembahasan  dengan dugaan kekeliruan rekapitulasi suara pada SIREKAP yang menggunakan metode OCR, berikut kami lampirkan 3 most liked, replied, dan retweeted tweet terkait SIREKAP, diantaranya:
 
 ![Top 3 On 18th Feb](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/top_3_on.png)
 
-Selain informasi diatas terdapat hal lain yang menyebabkan terjadinya puncak pembahasan terkait “sirekap”, diantaranya
+Selain informasi diatas terdapat hal lain yang menyebabkan terjadinya puncak pembahasan terkait SIREKAP pada tanggal 18 Februari 2024, diantaranya:
 
 ![Berita 1](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/berita-1.png)
 
@@ -91,11 +93,11 @@ sumber : https://www.kompas.id/baca/polhuk/2024/02/18/rekapitulasi-suara-di-keca
 
 sumber : https://www.metrotvnews.com/read/kWDCZdn2-investigasi-sirekap-keamanan-siber-pemilu-2024-buruk 
 
-Adapun setelah tanggal 18 Februari terdapat  
+**Setelah** tanggal 18 Februari, berikut kami lampirkan 3 most liked, replied, dan retweeted tweet terkait SIREKAP, diantaranya:  
 
 ![Top 3 After 18th Feb](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/top_3_after.png)
 
-Adapun informasi top liked, replied, dan retweeted dari rentang 13 Februari - 09 Maret, yakni :
+Adapun dari rentang 13 Februari - 09 Maret, berikut kami lampirkan  informasi top liked, replied, dan retweeted tweet terkait SIREKAP, diantaranya:
 
 ![Top Liked](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/top_liked.png)
 
@@ -115,7 +117,7 @@ sumber : https://x.com/herculep638/status/1762392970668745172
 
 sumber :  https://x.com/herculep638/status/1762392970668745172
 
-Hal ini bisa kita simpulkan setelah terjadinya PEMILU kabar-kabar mengenai PEMILU ini masih ramai dibincangkan oleh para netizen Indonesia entah itu terkait isu-isu yang masih ada atau bahkan seputar sistematis yang sedang digunakan dalam PEMILU tersebut.
+Hal ini bisa kita simpulkan setelah terjadinya Pemilu 2024 kabar-kabar mengenai hal tersebut masih ramai dibincangkan oleh para netizen Indonesia entah itu terkait isu-isu yang masih ada atau bahkan seputar sistematis yang sedang digunakan dalam Pemilihan Umum tersebut.
 
 #### Clustering Data
 
@@ -131,7 +133,7 @@ Berdasarkan interpretasi grafik metode Elbow, terlihat bagaimana garis biru pada
 
 sumber : IRIS FTMM
 
-Berdasarkan analisis visualisasi algoritma TF-IDF, dapat disimpulkan bahwa kata-kata seperti "suara", "pemilu", "disetop", "ajak", "fokus", "publik", "rekapitulasi", "real", "count", dan "manual" memiliki nilai TF-IDF yang tinggi, menunjukkan kepentingan dan relevansi yang signifikan dalam konteks SIREKAP PEMILU 2024 setelah melalui pra-pemrosesan data. Nilai TF-IDF yang lebih tinggi pada kata-kata ini mengindikasikan tingkat penting dan relevansi yang lebih tinggi dalam percakapan terkait SIREKAP PEMILU 2024, yang dapat menjadi fokus perhatian dalam analisis dan perbaikan sistem untuk meningkatkan transparansi dan akurasi dalam proses pemilihan umum.
+Berdasarkan analisis visualisasi algoritma TF-IDF, dapat disimpulkan bahwa kata-kata seperti “hasil”, "suara", "disetop", "ajak", "fokus", "publik", "rekapitulasi", "real", "count", dan "manual" memiliki nilai TF-IDF yang tinggi, menunjukkan kepentingan dan relevansi yang signifikan terhadap SIREKAP Pemilu 2024 setelah melalui pra-pemrosesan data. Nilai TF-IDF yang lebih tinggi pada kata-kata ini mengindikasikan tingkat penting dan relevansi yang lebih tinggi dalam percakapan terkait SIREKAP Pemilu 2024, yang dapat menjadi fokus perhatian dalam analisis dan perbaikan sistem untuk meningkatkan transparansi dan akurasi dalam proses pemilihan umum.
 
 #### Word Cloud
 
@@ -143,11 +145,17 @@ Berdasarkan hasil yang didapat dari elbow-method dengan titik optimal k = 4, mak
 
 sumber : IRIS FTMM
 
+Berdasarkan word cloud diatas terdapat 7 kata kunci utama yakni; **aniesmuhaimin2024, prabowogibran2024, pemilu2024, real count, vote real, dirty vote,** dan **curang dirty.**
+Word cloud ini menunjukkan percakapan yang terfokus pada kandidat-kandidat utama dalam Pemilu 2024, yakni Anies Baswedan-Muhaimin Iskandar dan Prabowo Subianto-Gibran Rakabuming. Juga menunjukkan kekhawatiran yang signifikan tentang kecurangan dalam pemilu, yang mengindikasikan bahwa publik skeptis terhadap integritas proses pemilu dengan kata-kata seperti **vote real** dan **dirty vote**. Isu-isu tentang kecurangan dan manipulasi suara sangat dominan, ini bisa menunjukkan bahwa meskipun teknologi ini (SIREKAP) diharapkan meningkatkan transparansi, ada kekhawatiran bahwa teknologi tersebut juga bisa dimanipulasi, menimbulkan ancaman bagi integritas pemilu.
+
 **Cluster 2 :**
 
 ![Cluster 2](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/cluster-2.png)
 
 sumber : IRIS FTMM
+
+Berdasarkan word cloud diatas terdapat 7 kata kunci utama yakni: **rekap, hasil, suara, alat bantu, data, perolehan suara,** dan **penghitungan suara**.
+Word cloud ini berfokus pada proses teknis dari penghitungan suara dalam pemilu. Kata-kata seperti **rekap, hasil, suara, dan penghitungan suara** menunjukkan diskusi seputar mekanisme rekapitulasi suara dan alat bantu yang digunakan (SIREKAP). Ini mengindikasikan perhatian publik terhadap transparansi dan akurasi dalam penghitungan suara.
 
 **Cluster 3**
 
@@ -155,27 +163,29 @@ sumber : IRIS FTMM
 
 sumber : IRIS FTMM
 
+Berdasarkan word cloud diatas terdapat 7 kata kunci utama yakni: **ajak publik, disetop, count, real count, fokus, manual,** dan **rekapitulasi.**
+Word cloud ini mencerminkan seruan untuk keterlibatan publik dalam perhitungan suara dan penghentian proses tertentu (SIREKAP). Kata **real count** menunjukkan dorongan untuk penghitungan suara yang transparan dan akurat. Hal ini mengindikasikan publik menginginkan akses terhadap informasi yang dihasilkan oleh teknologi ini dan kejelasan tentang bagaimana data tersebut digunakan.
+
 **Cluster 4**
 
 ![Cluster 4](https://github.com/arknsa/IRIS-Odyssey-Episode-1-SIREKAP/blob/main/cluster-4.png)
 
 sumber : IRIS FTMM
 
-Analisis yang mendalam terhadap word cloud ini mengungkapkan sorotan yang menarik seputar pemilihan umum. Cluster 1 menyoroti pentingnya transparansi dan pengawasan publik dalam proses pemungutan suara, sementara cluster 1 mengungkapkan perhatian yang mendalam terhadap potensi kecurangan dan hasil pemilihan. Dengan kata-kata kunci yang menonjol seperti "suara", "rekapitulasi", "kecurangan", dan "kalah", analisis ini membangkitkan kesadaran akan tantangan dan kompleksitas dalam menjaga integritas pemilihan umum."
+Berdasarkan word cloud diatas terdapat 7 kata kunci utama yakni: **perindo, partaiperindo, pemilu2024, pileg2024, untukindonesiasejahtera, partaipedulirakyat, ** dan **perindoupdate.**
+Word cloud ini berpusat pada aktivitas dan kampanye partai-partai menjelang Pemilu 2024. Frasa **untukindonesiasejahter**a dan **partaipedulirakyat** menunjukkan fokus partai pada kesejahteraan rakyat. Kata-kata seperti **pemilu2024** dan **pileg2024** menandakan diskusi tentang strategi dan persiapan partai untuk pemilihan legislatif dan umum.
 
-Sebagai warga yang peduli akan masa depan demokrasi, analisis ini mengajak untuk lebih memperhatikan isu-isu krusial dalam proses pemilihan umum. Dari penghitungan suara hingga potensi kecurangan, setiap aspek dalam pemilihan memiliki dampak yang signifikan bagi stabilitas politik dan kepercayaan publik. Mari bersama-sama mengamati dan berpartisipasi aktif dalam menjaga transparansi, akurasi, dan integritas dalam setiap tahapan pemilihan umum.
+Secara keseluruhan, keempat word cloud ini memberikan gambaran lengkap tentang berbagai aspek Pemilu 2024 di Indonesia. Mereka memberi perhatian khusus pada masalah kecurangan, rekapitulasi suara, partisipasi publik, dan kampanye partai politik. Analisis ini menunjukkan betapa pentingnya SIREKAP yang menggunakan OCR sebagai inovasi teknologi dalam pemilu. Meskipun ada potensi besar untuk meningkatkan transparansi dan efisiensi, ada kekhawatiran yang wajar bahwa teknologi ini dapat mengancam integritas pemilu jika tidak diawasi dengan baik.
 
 ### Penutup
 
-Pada Pemilihan Umum Indonesia tahun 2024, Sistem Informasi Rekapitulasi (SIREKAP) dan teknologi Optical Character Recognition (OCR) digunakan, namun ada kekhawatiran tentang akurasi dan transparansi sistem ini. Analisis data dari media sosial menunjukkan bahwa kata-kata seperti "suara", "pemilu", "disetop", "ajak", "fokus", "publik", "rekapitulasi", "real", "count", dan "manual" adalah yang paling signifikan dalam diskusi tentang SIREKAP PEMILU tahun 2024. Diskusi ini menunjukkan kekhawatiran tentang penghitungan dan rekapitulasi suara, potensi kecurangan, dan hasil pemilihan umum.
+Pada Pemilihan Umum Indonesia tahun 2024, teknologi seperti Sistem Informasi Rekapitulasi (SIREKAP) dan Optical Character Recognition (OCR) telah digunakan. Namun, kekhawatiran tentang akurasi dan transparansi sistem ini telah muncul, terutama dalam diskusi di media sosial. Isu-isu seperti penghitungan suara, potensi kecurangan, dan hasil pemilihan umum menjadi fokus utama.
 
-Setelah pemilihan, banyak pengguna media sosial yang menunjukkan ketidakpuasan mereka terhadap proses rekapitulasi suara dan menuntut transparansi yang lebih baik. Sejumlah pengguna bahkan mengajak publik untuk fokus pada isu ini dan mendesak pihak berwenang untuk menghentikan penghitungan suara secara otomatis dan beralih ke penghitungan manual yang dianggap lebih dapat dipercaya.
+Ketidakpuasan publik terhadap proses rekapitulasi suara telah memicu tuntutan untuk transparansi yang lebih baik. Beberapa bahkan mendesak untuk beralih dari penghitungan suara otomatis ke metode manual yang dianggap lebih dapat dipercaya. Di sisi lain, efektivitas dan keakuratan OCR juga dipertanyakan, dengan beberapa menyoroti potensi kesalahan dalam pembacaan hasil pemilu.
 
-Pada sisi lain, ada juga yang mempertanyakan efektivitas dan keakuratan dari OCR dan SIREKAP. Beberapa pengguna menyoroti bahwa ada potensi kesalahan dalam pembacaan hasil pemilu yang dapat mempengaruhi hasil akhir pemilihan.
+Sebagai warga yang peduli akan masa depan demokrasi, kita diajak untuk memperhatikan isu-isu penting ini. Transparansi dan akuntabilitas dalam setiap tahapan pemilihan menjadi sangat krusial. Oleh karena itu, mari kita bersama-sama mengawasi dan mendesak peningkatan dalam sistem pemilu agar lebih dapat dipercaya dan memberikan hasil yang sesuai dengan kehendak rakyat.
 
-Ketidakpuasan dan kekhawatiran yang tersebar luas di media sosial menandakan pentingnya transparansi dan akuntabilitas dalam setiap tahapan pemilihan. Ini adalah panggilan kepada kita semua untuk bersatu dalam memastikan proses demokrasi yang benar-benar adil dan akurat. Mari bersama-sama mengawasi dan mendesak pihak berwenang untuk memperbaiki sistem pemilu agar lebih dapat dipercaya dan memberikan hasil yang sesuai dengan kehendak rakyat!
-
-Secara keseluruhan, analisis ini menunjukkan bahwa ada kebutuhan yang mendesak untuk meningkatkan transparansi dan akurasi dalam proses pemilihan umum di Indonesia. Hal ini tidak hanya penting untuk memastikan hasil pemilu yang adil dan akurat, tetapi juga untuk membangun kepercayaan publik terhadap proses demokrasi.
+Secara keseluruhan, analisis ini menunjukkan urgensi peningkatan transparansi dan akurasi dalam proses pemilihan umum di Indonesia. Ini bukan hanya penting untuk memastikan hasil pemilu yang adil dan akurat, tetapi juga untuk membangun kepercayaan publik terhadap proses demokrasi. Dengan berpartisipasi aktif dalam menjaga transparansi, akurasi, dan integritas dalam setiap tahapan pemilihan umum, kita dapat berkontribusi dalam memastikan masa depan demokrasi yang lebih baik. Mari kita bersatu untuk demokrasi yang lebih adil, akurat, dan transparan.
 
 #### References
 
