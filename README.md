@@ -1,4 +1,4 @@
-# IRIS Odyssey Episode 1 : 
+# IRIS Odyssey Episode 1
 ## Analisis Sirekap: Inovasi atau Ancaman bagi Integritas Pemilu 2024?
 
 ### Pendahuluan
